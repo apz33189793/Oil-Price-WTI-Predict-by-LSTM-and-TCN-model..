@@ -1,4 +1,4 @@
-# Oil-Price-WTI-Predict-by-LSTM-.
+# Oil-Price-WTI-Predict-by-LSTM-and TCN model.
 Predicting WTI index using LSTM 2021/06/31
 
 # Summary
