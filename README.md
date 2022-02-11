@@ -13,6 +13,7 @@ Predicting WTI index using LSTM 2021/06/31
   
 # Data
   From January 2014 to June 2021
+  Data size : 1868
   
 ## Dependent variable
   West Texas Intermediate
