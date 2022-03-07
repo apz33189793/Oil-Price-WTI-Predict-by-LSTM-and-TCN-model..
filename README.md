@@ -69,4 +69,5 @@ Predicting WTI index using LSTM 2021/06/31
   *Validation RMSE Loss = 0.0475
   ![image](https://user-images.githubusercontent.com/71583821/153667640-9d33e3ee-03ae-40f6-a413-4e7a45c6cf36.png)
   
-  
+# RMSE Training Loss
+![image](https://user-images.githubusercontent.com/71583821/157136317-92e12c0b-fd3e-4ea7-9285-854931718111.png)
